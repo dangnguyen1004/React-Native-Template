@@ -4,7 +4,7 @@
 
 * Create new project with cmd:
 ``` 
-npx react-native@latest init ProjectName --template https://gitlab.com/vstreamdev/v-stream-react-native-template.git
+npx react-native@latest init ProjectName --template https://github.com/dangnguyen1004/React-Native-Template.git
 ```
 
 * Rename the template with cmd:
